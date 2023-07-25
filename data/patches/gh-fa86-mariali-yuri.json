@@ -1,0 +1,47 @@
+{
+	"id": -1,
+	"name": "MariAli Yuri ",
+	"description": "Marisa And Alice from the Touhou Project Discord Yuri Splinter Cell.  ",
+	"links": {
+		"website": [
+			"https://www.pixiv.net/en/artworks/90592273"
+		],
+		"subreddit": [
+			"wholesomeyuri"
+		]
+	},
+	"path": {
+		"245-253": [
+			[
+				-1434,
+				-623
+			],
+			[
+				-1479,
+				-624
+			],
+			[
+				-1479,
+				-663
+			],
+			[
+				-1434,
+				-663
+			],
+			[
+				-1427,
+				-626
+			],
+			[
+				-1427,
+				-624
+			]
+		]
+	},
+	"center": {
+		"245-253": [
+			-1454,
+			-643
+		]
+	}
+}
